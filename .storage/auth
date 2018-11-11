@@ -1,0 +1,79 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "admin"
+                },
+                "id": "b0551af008774d398d5c2f2a6ddf293a",
+                "user_id": "67043bf937e2486c98638b5f071807f9"
+            }
+        ],
+        "groups": [
+            {
+                "id": "eba1f3519c114df888d62f6247153f54",
+                "name": "All Access"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://thangyen.duckdns.org/",
+                "client_name": null,
+                "created_at": "2018-11-11T07:46:59.484525+00:00",
+                "id": "8e0e0d4700fe4c938431832c02b5734a",
+                "jwt_key": "76cd5f60d126070f0f972df911f77a8c332485e79b930c30f57dff72d816761f1af981e3b17e806a1af3d51393c80ba71bd6ef76a51e7c4641de48b6a4cd9556",
+                "last_used_at": "2018-11-11T07:46:59.484788+00:00",
+                "last_used_ip": "116.110.10.11",
+                "token": "8837f3bbdde31fa11929db4e5a3d075d82fffcd0e84d8644e33832f4550eb5bcc8f3319b5c96486024f3875e7795931b13d82cebc20f22987bd46e078ebd9424",
+                "token_type": "normal",
+                "user_id": "67043bf937e2486c98638b5f071807f9"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.1.2:8123/",
+                "client_name": null,
+                "created_at": "2018-11-11T06:58:02.650559+00:00",
+                "id": "9ed9769168d3439892b6775cb5e5a38a",
+                "jwt_key": "1e3a6e8822f8845c79acab4db39f33551bb616aea99b713fc7fa396b373b30a3106e13f85d2acae711a01d05b68224eae3edf0c1d8715be43d66206e03c40e34",
+                "last_used_at": "2018-11-11T07:36:11.122174+00:00",
+                "last_used_ip": "192.168.1.14",
+                "token": "ddabf42fd0a4a5957a38e7f6a510fe8e9c3219d32900ef3e65ebd83e3e30bce10458de03b829d4dd3b0d55268da8244697b4b70c5aa8eafca2ec8789d571d9aa",
+                "token_type": "normal",
+                "user_id": "67043bf937e2486c98638b5f071807f9"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://192.168.1.2:8123/",
+                "client_name": null,
+                "created_at": "2018-11-11T07:46:34.157409+00:00",
+                "id": "ae05f6cf0b714095bdb9e8e3f806ae88",
+                "jwt_key": "14837f221fcc4d5f348895127046961cfa9133a73f2a15fdaeae1600c759d17468293ab7d9662f92e3d04b3583e464005a3f04d7fcd32c8f9a9ab7ba893fc75d",
+                "last_used_at": "2018-11-11T07:46:34.157696+00:00",
+                "last_used_ip": "192.168.1.14",
+                "token": "c03efc465f8f27f28967a82afc250a79abd72ec89e0e00a700290c9147f662dae4cc3b809432489a5009a4af69ff40d178e9a6c6cbf9be668977f06c982f60d9",
+                "token_type": "normal",
+                "user_id": "67043bf937e2486c98638b5f071807f9"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "eba1f3519c114df888d62f6247153f54"
+                ],
+                "id": "67043bf937e2486c98638b5f071807f9",
+                "is_active": true,
+                "is_owner": true,
+                "name": "thangtran",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
